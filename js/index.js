@@ -183,3 +183,72 @@
 
 // ========================== 3 - misol =======================
 
+
+
+// function object(obj) {
+//     return Object.entries(obj);
+// }
+
+// const example = {
+//     name: 'John',
+//     age: 30
+// };
+
+// console.log(object(example));
+
+
+
+
+// ========================== 4 - misol =======================
+
+
+
+
+
+
+
+// Massiv metodlariga oid masalalar.
+
+
+// ========================== 1 - misol =======================
+
+// function object(obj) {
+//     if(obj.length < 3){
+
+//     }
+//     const arrey = Math.floor(obj.length / 2);
+// if (obj.length % 2 !== 0) {
+//     return obj.slice(arrey - 1, arrey + 2);
+// }
+// return obj.slice(arrey - 1, arrey + 2);
+
+// }
+// const massiv = [1, 2, 3, 4, 5, 6, 7, 8];
+
+// console.log(object(massiv));
+
+
+
+// ========================== 2 - misol =======================
+
+
+
+
+// function arr(arg1, arg2, arg3) {
+//     return arg2.concat(arg3, arg1);
+// }
+// const arg1 = [1, 2];
+// const arg2 = [3, 4];
+// const arg3 = [5, 6];
+// console.log(arr(arg1 ,arg2, arg3));
+
+
+
+// ========================== 3 - misol =======================
+
+
+function arr(arg1, arg2) {
+    if([1, 2, 3, 4, 5]){
+        
+    }
+}
